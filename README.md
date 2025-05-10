@@ -9,7 +9,7 @@ About me:
 
 ## Working experience ⚙
 
-Rignt now i'm working at an STEM educational start-up as an product/operations assistant intern, and i'm gaining experience at data processing and management. 
+Rignt now i'm working at an STEM educational start-up as a product/operations assistant intern. I'm gaining experience at data processing and management. 
 
 Daily i :
   * Move data from one database to another 🔄
@@ -17,7 +17,9 @@ Daily i :
   * Track the behaviour of different KPI's 📈
   * Create and deliver different types of reports 📊
 
-## 
+## I'm lookin to collaborate on...
+
+Two fields where i'd like to build a career are the clean/renewable energies and social wellness. But i'm not restricted to them. I'm also into education and academical researching 📚
 
 <!--
 **saulcova3/saulcova3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
