@@ -17,7 +17,7 @@ Daily i :
   * Track the behaviour of different KPI's 📈
   * Create and deliver all sorts of reports 📊
 
-## I'm lookin to collaborate on...
+## I'm looking to collaborate on...
 
 Two fields where i'd like to build a career are the clean/renewable energies and social wellness. But i'm not restricted to them. I'm also into education and academical researching 📚
 
