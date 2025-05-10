@@ -21,6 +21,7 @@ Daily i :
 
 Two fields where i'd like to build a career are the clean/renewable energies and social wellness. But i'm not restricted to them. I'm also into education and academical researching 📚
 
+## And down here you can see some projects i've been working on ⬇
 <!--
 **saulcova3/saulcova3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
