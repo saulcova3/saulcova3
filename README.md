@@ -15,7 +15,7 @@ Daily i :
   * Move data from one database to another 🔄
   * Fix bugs and solve tickets from other departments 🎫
   * Track the behaviour of different KPI's 📈
-  * Create and deliver different types of reports 📊
+  * Create and deliver all sorts of reports 📊
 
 ## I'm lookin to collaborate on...
 
