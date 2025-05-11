@@ -9,7 +9,7 @@ About me:
 
 ## Working experience ⚙
 
-Rignt now i'm working at an STEM educational start-up as a product/operations assistant intern. I'm gaining experience at data processing and management. 
+Right now i'm working at an STEM educational start-up as a product/operations assistant intern. I'm gaining experience at data processing and management. 
 
 Daily i :
   * Move data from one database to another 🔄
