@@ -19,7 +19,7 @@ Daily i've found myself with these type of tasks:
 
 ## I'm looking to collaborate on...
 
-Two fields where i'd like to build a career are the clean/renewable energies and social wellness. But i'm not restricted to them, for what i'd like to do the most is working in making an impact wherever i stand. I'm also into education and academical researching 📚
+Two fields where i'd like to build a career are the clean/renewable energies and education or social wellness. But i'm not restricted to them, for what i'd like to do the most is working in making an impact wherever i stand. I'm also into education and academical researching 📚
 
 ## And down here you can see some projects i've been working on ⬇
 <!--
