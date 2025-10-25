@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I'm Saúl and i like data. It helps me to earn knowledge by building stories (and to do the creepy math i'm unable to do somewhere else 😁).
+I'm Saúl and i like data. It helps me to gain knowledge by building stories, but what i mainly enjoy about its' ecosystem is that i can do the creepy math i'm unable to do anywhere else 😁.
 
 About me:
-- I mainly work in Python and Javascript 🐍
-- My favorite part of working on a project is the data cleaning and wrapping 🧹 
-- I rather black tea over coffee 🧋
+- I mainly work in Python and SQL, with a little bit of Javascript 🐍
+- I'm a huge fan of documenting and cleaning 🧹 
+- I prefer black tea over coffee 🧋
 
 ## Working experience ⚙
 
@@ -17,11 +17,17 @@ Daily i've found myself with these type of tasks:
   * Track the behaviour of different KPI's 📈
   * Create and deliver all sorts of reports 📊
 
-## I'm looking to collaborate on...
+I currently work as a *Data Integration Specialist* in EdTech projects, where I:
+  * Perform data management and system configuration tasks across multiple platforms 🗃️
+  * Resolve support cases and projects using Salesforce 🎫
+  * Work with configuration scripts (YAML) 🛠️
+  * Collaborate on the implementation of technological solutions for education 🤝
 
-Two fields where i'd like to build a career are the clean/renewable energies and education or social wellness. But i'm not restricted to them, for what i'd like to do the most is working in making an impact wherever i stand. I'm also into education and academical researching 📚
+## My career interests are...
 
-## And down here you can see some projects i've been working on ⬇
+I'm heavily interested in contributing to education as i believe it's one of humanity's best tools for improvement, but i'm also a thermodynamics nerd, so i hope one day to be involved in renewable energy projects. And maybe researching! 📚
+
+## Check out some personal projects i've been working on below⬇
 <!--
 **saulcova3/saulcova3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
